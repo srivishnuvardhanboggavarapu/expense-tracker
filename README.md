@@ -1,7 +1,6 @@
-<img width="960" height="540" alt="Monthly Summary" src="https://github.com/user-attachments/assets/47e25b7b-8229-4458-89f0-5f8a1c171db6" /># Personal Expense Tracker
+# Personal Expense Tracker
 
 ## Project Overview
-
 The Personal Expense Tracker is a Python and SQLite-based mini project designed to help users manage and monitor their daily expenses efficiently.
 Users can record expenses, categorize spending, search expense history, update records, and generate useful financial reports.
 
