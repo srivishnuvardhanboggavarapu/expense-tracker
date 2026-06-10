@@ -1,4 +1,4 @@
-# Personal Expense Tracker
+<img width="960" height="540" alt="Monthly Summary" src="https://github.com/user-attachments/assets/47e25b7b-8229-4458-89f0-5f8a1c171db6" /># Personal Expense Tracker
 
 ## Project Overview
 
@@ -198,16 +198,26 @@ python main.py
 ---
 
 ## Screenshots
-
-Add screenshots inside the `screenshots/` folder.
-
-Example:
-
 * Main Menu
+<img width="960" height="540" alt="Main Menu" src="https://github.com/user-attachments/assets/8606c9d8-c075-4c2a-9ff4-80d3594c031c" />
 * Add Expense
+<img width="960" height="540" alt="Add Expense_1" src="https://github.com/user-attachments/assets/245ad986-f42b-4d4e-b501-a4b591d55e89" />
 * View Expenses
+<img width="960" height="540" alt="View Expenses" src="https://github.com/user-attachments/assets/ffc03b51-6c7e-429f-921b-f4b73d4a518a" />
 * Monthly Summary
+<img width="960" height="540" alt="Monthly Summary" src="https://github.com/user-attachments/assets/ae1af7fc-4dfd-45b8-a911-902f1715e4d2" />
 * Category Report
+<img width="960" height="540" alt="Category Report" src="https://github.com/user-attachments/assets/d78b89ee-b956-496e-a199-0cfd61633e83" />
+* date Search
+<img width="960" height="540" alt="Date Search" src="https://github.com/user-attachments/assets/ee47ee11-16d6-441c-8423-33407b8b579e" />
+* Average Expense
+<img width="960" height="540" alt="Average Expense" src="https://github.com/user-attachments/assets/a047de23-d1d6-482a-980c-92edb61a100a" />
+* Delete Expense
+<img width="960" height="540" alt="Delete Expense" src="https://github.com/user-attachments/assets/cb1fc8a9-171b-4659-a748-05a27015c9a5" />
+* Top Category
+<img width="960" height="540" alt="Top Category" src="https://github.com/user-attachments/assets/53734cfd-bf61-44e5-b6a7-45a3f8a842e7" />
+* Exit
+<img width="960" height="540" alt="Exit" src="https://github.com/user-attachments/assets/e978f2de-eafe-4f6b-9084-9b89217ef2c5" />
 
 ---
 
@@ -225,4 +235,4 @@ Example:
 
 Vishnu Boggavarapu
 
-GitHub: Add your GitHub profile link here.
+GitHub: https://github.com/srivishnuvardhanboggavarapu
